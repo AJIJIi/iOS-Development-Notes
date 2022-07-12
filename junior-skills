@@ -1,54 +1,52 @@
-1.Основы SWIFT
-	1. Комментарии
-	2. Работа со строками (интерполяция, поиск элементов и т.д.)
-	3. Коллекции (перечисления, кортежи, словари, массивы, множества)
-	4. Структура vs класс (тип хранения и ссылочный)
+1. SWIFT basics
+	1. Comments
+	2. Strings (interpolation, substring search etc.)
+	3. Collections (enum, tuple, dictionary, array, set)
+	4. Struct vs Class (value and reference types)
 	5. If (тернарный), for, while, switch, guard
-	6. Опционалы
-	7. Инициализаторы и деинициализаторы
-	8. Наследование, протоколы
-	9. Вычисляемые свойства (get, set)
-	10. Ленивые свойства
-	11. Проверка типов и приведение типов
-	12. Расширения
-	13. Static и class
-	14. Функции (в т.ч. mutating, inout)
-	15. Уровни доступа
-	16. Работа с ошибками (do-catch block)
-	17. Делегирование, нотификации в коде и передача функций
-	18. Наблюдатели свойств (didSet, willSet)
-	19. Базовые операторы
+	6. Basic operators
+	7. Optionals
+	8. Initialisators and Deinitialisators
+	9. Inheritance, Protocols
+	10. Computed properties (get, set)
+	11. Lazy properties
+	12. Type checking and type casting
+	13. Extensions
+	14. Static и class keywords
+	15. Functions (including mutating, inout)
+	16. Access levels
+	17. Error handling (do-catch block)
+	18. Delegation, notifications in code, closures
+	19. Property observers (didSet, willSet)
 2. UIKit
-	1. Вёрстка в Interface builder
-	2. Вёрстка с помощью констрейнтов, autoLayout	
-3. Жизненный цикл UIViewController
-	4. Простая анимация
-	5. Рисование 
+	1. Layout with Interface builder
+	2. Layout with constratints, autoLayout	
+	3. UIViewController lifecycle
+	4. Simple animation
+	5. Drawing 
 	6. UITableView(-Controller), UICollectionView(-Controller)
-	7. Навигация между экранами, UINavigationViewController
+	7. Navigation between ViewControllers, UINavigationViewController
 	8. UIScrollView(-Controller)
 	9. UITextField, UIButton, UILabel, UIView
-	10. Создание кастомного UIView (или наследника)
+	10. Creating new classes based on UIView (or any of it's inheritors)
 	11. UIAlertController
 	12. UIGestureRecognizer
-	13. Может что-то ещё, надо дописать
 3. Playground
-4. Настройка проекта, Info.plist
-5. Жизненный цикл iOS приложения
-6. Локализация приложения
-7. Работа с AppStore и TestFlight
-8. Уметь подключить другую библиотеку (CocoaPods, SPM) и разобраться в её документации
-9. Дебаггинг, установка приложения на устройство и симуляторы
-10. Основы параллельного программирования, многопоточность (DispatchQueue, deadlock, race condition, livelock)
-11. Знание архитектурных паттернов (MVC, MVP, MVVM)
-12. Умение пользоваться документацией, stack overflow, open API documentation
-13. Сильные и слабые ссылки, ARC, утечки памяти
-14. Хранение данных в UserDefaults и CoreData, Keychain
+4. Project configuring, Info.plist
+5. iOS application lifecycle
+6. App localisation
+7. Work with AppStore and TestFlight
+8. Know how to connect third-party library (CocoaPods, SPM) and to be able to understand it's documentation
+9. Debugging, installing your app on device and simulator
+10. Concurrent computing basics, multi-threading (DispatchQueue, deadlock, race condition, livelock)
+11. Knoweldge about architechure patterns (MVC, MVP, MVVM)
+12. Skill to use documentation, stack overflow, open API documentation
+13. Strong and weak links, ARC, memory leaks
+14. Stoding data in UserDefaults, CoreData and Keychain
 15. Основы HTTP запросов, JSON, умение пользоваться Alamofire или URLSession
 16. XCTesting, Unit tests, UI tests
-17. Основы работы с Git
-18. Понимает основы и суть ООП
-19. Паттерны программирования и алгоритмы
-20. Алгоритмы и их оценка. Популярные алгоритмы сортировки и поиска
-21. Понимание процесса разработки. Методологии разработки Agile, Scrum, Kanban. Знание участников разработки и их роли, их технологии в общем смысле. CI/CD
-22. Общее понимание пунктов из раздела Middle
+17. Git basics
+18. OOP basics
+19. Software design patterns and algorithms basics (their complexity, sorting examples)
+20. Understanding software development process. Agile, Scrum, Kanban. Knowing process participants, thir roles and technologies. CI/CD
+21. Common knowledge about points from middle-skills list
