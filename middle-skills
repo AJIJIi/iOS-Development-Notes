@@ -1,9 +1,9 @@
-Объединение типов
+Protocol composition
 Push notifications
-VIPER
-Выкладывание своего фреймворка в Cocoa Touch, SPM
-Указатели
-Обобщённое программирование, дженерики
+VIPER pattern
+Publishing SDK to Cocoa Touch, SPM
+Pointers
+Generic programming
 SwiftUI
 Objective-C
 AppCode
@@ -18,9 +18,9 @@ StoreKit
 Core Bluetooth
 EventKit
 AddressBook
-Работа с сокетами
+Sockets
 SpriteKit
 WatchOS
 MacOS
-Общее знание про кроссплатформенные языки
-Работа с битами, продвинутые операторы
+Cross-platform languages
+Working with bytes (bits), Advanced Operators
