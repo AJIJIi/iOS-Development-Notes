@@ -18,6 +18,7 @@
 	17. Error handling (do-catch block)
 	18. Delegation, notifications in code, closures
 	19. Property observers (didSet, willSet)
+	20. Date, Calendar, DateFormatter and how to work with dates and strings
 2. UIKit
 	1. Layout with Interface builder
 	2. Layout with constratints, autoLayout	
