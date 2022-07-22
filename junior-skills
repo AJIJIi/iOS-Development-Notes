@@ -42,7 +42,7 @@
 10. Concurrent computing basics, multi-threading (DispatchQueue, deadlock, race condition, livelock)
 11. Knoweldge about architechure patterns (MVC, MVP, MVVM)
 12. Skill to use documentation, stack overflow, open API documentation
-13. Strong and weak links, ARC, memory leaks
+13. Strong, weak and unowned links, ARC, memory leaks
 14. Stoding data in UserDefaults, CoreData and Keychain
 15. Основы HTTP запросов, JSON, умение пользоваться Alamofire или URLSession
 16. XCTesting, Unit tests, UI tests
