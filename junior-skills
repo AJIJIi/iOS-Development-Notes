@@ -43,11 +43,12 @@
 11. Knoweldge about architechure patterns (MVC, MVP, MVVM)
 12. Skill to use documentation, stack overflow, open API documentation
 13. Strong, weak and unowned links, ARC, memory leaks
-14. Stoding data in UserDefaults, CoreData and Keychain
-15. Основы HTTP запросов, JSON, умение пользоваться Alamofire или URLSession
-16. XCTesting, Unit tests, UI tests
-17. Git basics
-18. OOP basics
-19. Software design patterns and algorithms basics (their complexity, sorting examples)
-20. Understanding software development process. Agile, Scrum, Kanban. Knowing process participants, thir roles and technologies. CI/CD
-21. Common knowledge about points from middle-skills list
+14. What is map(), flatMap() and compactMap()
+15. Stoding data in UserDefaults, CoreData and Keychain
+16. Основы HTTP запросов, JSON, умение пользоваться Alamofire или URLSession
+17. XCTesting, Unit tests, UI tests
+18. Git basics
+19. OOP basics
+20. Software design patterns and algorithms basics (their complexity, sorting examples)
+21. Understanding software development process. Agile, Scrum, Kanban. Knowing process participants, thir roles and technologies. CI/CD
+22. Common knowledge about points from middle-skills list
