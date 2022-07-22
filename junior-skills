@@ -5,7 +5,7 @@
 	4. Struct vs Class (value and reference types)
 	5. If (тернарный), for, while, switch, guard
 	6. Basic operators
-	7. Optionals
+	7. Optionals (including .none, .some)
 	8. Initialisators and Deinitialisators
 	9. Inheritance, Protocols
 	10. Computed properties (get, set)
