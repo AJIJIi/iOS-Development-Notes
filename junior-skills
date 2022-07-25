@@ -13,7 +13,7 @@
 	12. Type checking and type casting
 	13. Extensions
 	14. Static и class keywords
-	15. Functions (including mutating, inout)
+	15. Functions (including mutating, inout) and closures
 	16. Access levels
 	17. Error handling (do-catch block)
 	18. Delegation, notifications in code, closures
