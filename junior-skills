@@ -44,7 +44,7 @@
 12. Skill to use documentation, stack overflow, open API documentation
 13. Strong, weak and unowned links, ARC, memory leaks
 14. What is map(), flatMap() and compactMap(); functor and monad
-15. Stoding data in UserDefaults, CoreData and Keychain
+15. Storing data in UserDefaults, CoreData and Keychain
 16. Основы HTTP запросов, JSON, умение пользоваться Alamofire или URLSession
 17. XCTesting, Unit tests, UI tests
 18. Git basics
